@@ -1,8 +1,8 @@
-#Greeting#
+#Greeting
 
 Hello everyone, i am **dtqdev**. I have a dream that make **Android phones** can run **IOS** only through **TWRP** (Team Win Recovery Project)
 
-#What Is **AOS**#
+#What Is **AOS**
 
 🌟 | **AOS** is an **Android Rom** bring IOS style but it bases on **AOSP** (Android Open Source Project)
 
